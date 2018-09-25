@@ -1,0 +1,458 @@
+{
+    code: "0", 
+    data: {
+        block: [
+            {
+                type: "text", 
+                line: [
+                    {
+                        confidence: 1, 
+                        word: [
+                            {
+                                content: "学而思理科服务（IDxeslike）徽信公众号粉丝专属学习资料，请勿外传"
+                            }
+                        ]
+                    }, 
+                    {
+                        confidence: 1, 
+                        word: [
+                            {
+                                content: "100"
+                            }, 
+                            {
+                                content: "pl"
+                            }, 
+                            {
+                                content: "hinntr"
+                            }
+                        ]
+                    }, 
+                    {
+                        confidence: 1, 
+                        word: [
+                            {
+                                content: "-19、100以内加减口算题卡12"
+                            }
+                        ]
+                    }, 
+                    {
+                        confidence: 1, 
+                        word: [
+                            {
+                                content: "100"
+                            }, 
+                            {
+                                content: "pl"
+                            }, 
+                            {
+                                content: "t"
+                            }, 
+                            {
+                                content: "10"
+                            }
+                        ]
+                    }, 
+                    {
+                        confidence: 1, 
+                        word: [
+                            {
+                                content: "12"
+                            }
+                        ]
+                    }, 
+                    {
+                        confidence: 1, 
+                        word: [
+                            {
+                                content: ""
+                            }
+                        ]
+                    }, 
+                    {
+                        confidence: 1, 
+                        word: [
+                            {
+                                content: "86-48=38"
+                            }, 
+                            {
+                                content: "91-13-78"
+                            }, 
+                            {
+                                content: "81-14=6771-15=56"
+                            }, 
+                            {
+                                content: "87-19-68"
+                            }
+                        ]
+                    }, 
+                    {
+                        confidence: 1, 
+                        word: [
+                            {
+                                content: "68"
+                            }
+                        ]
+                    }, 
+                    {
+                        confidence: 1, 
+                        word: [
+                            {
+                                content: "73-19=54"
+                            }, 
+                            {
+                                content: "92-67=)"
+                            }, 
+                            {
+                                content: "F147+26=72175-19-5+38+15=+7"
+                            }
+                        ]
+                    }, 
+                    {
+                        confidence: 1, 
+                        word: [
+                            {
+                                content: "＜ERR＞"
+                            }, 
+                            {
+                                content: "4+20=1/1/3-1-)"
+                            }, 
+                            {
+                                content: "038+15："
+                            }
+                        ]
+                    }, 
+                    {
+                        confidence: 1, 
+                        word: [
+                            {
+                                content: "81-14=6"
+                            }, 
+                            {
+                                content: "48+34=62156+26=82163+29=9196-18=7×|"
+                            }
+                        ]
+                    }, 
+                    {
+                        confidence: 1, 
+                        word: [
+                            {
+                                content: "97-18-7094-19=7594-17-7100-55=4日90-53-2"
+                            }
+                        ]
+                    }, 
+                    {
+                        confidence: 1, 
+                        word: [
+                            {
+                                content: ""
+                            }
+                        ]
+                    }, 
+                    {
+                        confidence: 1, 
+                        word: [
+                            {
+                                content: "190-55=3190-57=33190-51=3990-54=3690-56-541"
+                            }
+                        ]
+                    }, 
+                    {
+                        confidence: 1, 
+                        word: [
+                            {
+                                content: "85-17=6869+4=7269+14=×369+24=9369+25=U41"
+                            }
+                        ]
+                    }, 
+                    {
+                        confidence: 1, 
+                        word: [
+                            {
+                                content: ""
+                            }
+                        ]
+                    }, 
+                    {
+                        confidence: 1, 
+                        word: [
+                            {
+                                content: ""
+                            }
+                        ]
+                    }, 
+                    {
+                        confidence: 1, 
+                        word: [
+                            {
+                                content: "46-7=3U192-17=|592-18=|￡192-14="
+                            }
+                        ]
+                    }, 
+                    {
+                        confidence: 1, 
+                        word: [
+                            {
+                                content: "88+12=|0674-48=267449=2574-50-2474-58-16"
+                            }
+                        ]
+                    }, 
+                    {
+                        confidence: 1, 
+                        word: [
+                            {
+                                content: ""
+                            }
+                        ]
+                    }, 
+                    {
+                        confidence: 1, 
+                        word: [
+                            {
+                                content: ""
+                            }
+                        ]
+                    }, 
+                    {
+                        confidence: 1, 
+                        word: [
+                            {
+                                content: "83-18-65"
+                            }, 
+                            {
+                                content: "91-23:68"
+                            }, 
+                            {
+                                content: "91-25-00"
+                            }, 
+                            {
+                                content: "("
+                            }, 
+                            {
+                                content: "91-24"
+                            }, 
+                            {
+                                content: "="
+                            }, 
+                            {
+                                content: "D"
+                            }, 
+                            {
+                                content: ")"
+                            }, 
+                            {
+                                content: "90-13"
+                            }, 
+                            {
+                                content: "="
+                            }
+                        ]
+                    }, 
+                    {
+                        confidence: 1, 
+                        word: [
+                            {
+                                content: "22+58=8059+11=7059+21=80/59+41=|0055+15=|(】|"
+                            }
+                        ]
+                    }, 
+                    {
+                        confidence: 1, 
+                        word: [
+                            {
+                                content: ""
+                            }
+                        ]
+                    }, 
+                    {
+                        confidence: 1, 
+                        word: [
+                            {
+                                content: "37+35-5=6|81-11=|U]81-12=07_81-13=b8181-14=b"
+                            }
+                        ]
+                    }, 
+                    {
+                        confidence: 1, 
+                        word: [
+                            {
+                                content: "67-17+7=576-13=6398-15=83/67+13=8067+23=U01"
+                            }
+                        ]
+                    }, 
+                    {
+                        confidence: 1, 
+                        word: [
+                            {
+                                content: ""
+                            }
+                        ]
+                    }, 
+                    {
+                        confidence: 1, 
+                        word: [
+                            {
+                                content: "2"
+                            }
+                        ]
+                    }, 
+                    {
+                        confidence: 1, 
+                        word: [
+                            {
+                                content: "88-16=|267+33=|0050-16=34184-75=9￡67-44="
+                            }
+                        ]
+                    }, 
+                    {
+                        confidence: 1, 
+                        word: [
+                            {
+                                content: "(07-17+7=968-42=76196-17=7993-38=55192-33=591"
+                            }
+                        ]
+                    }, 
+                    {
+                        confidence: 1, 
+                        word: [
+                            {
+                                content: "____________________"
+                            }
+                        ]
+                    }, 
+                    {
+                        confidence: 1, 
+                        word: [
+                            {
+                                content: ""
+                            }
+                        ]
+                    }, 
+                    {
+                        confidence: 1, 
+                        word: [
+                            {
+                                content: "187-16+3=7492-15=77184-16=b8171-12-5993-44-4"
+                            }, 
+                            {
+                                content: "UI"
+                            }
+                        ]
+                    }, 
+                    {
+                        confidence: 1, 
+                        word: [
+                            {
+                                content: "27+64-90-18-72188-69-1788-39-11"
+                            }
+                        ]
+                    }, 
+                    {
+                        confidence: 1, 
+                        word: [
+                            {
+                                content: "29+31=DU</+04=*"
+                            }
+                        ]
+                    }, 
+                    {
+                        confidence: 1, 
+                        word: [
+                            {
+                                content: ""
+                            }
+                        ]
+                    }, 
+                    {
+                        confidence: 1, 
+                        word: [
+                            {
+                                content: "56+25=2156+14=7094-45=4995-46-49127+53-X门1"
+                            }
+                        ]
+                    }, 
+                    {
+                        confidence: 1, 
+                        word: [
+                            {
+                                content: ""
+                            }
+                        ]
+                    }, 
+                    {
+                        confidence: 1, 
+                        word: [
+                            {
+                                content: "145+56=0181+19=|00145+15=6D]87+15=|02|86+15=|"
+                            }
+                        ]
+                    }, 
+                    {
+                        confidence: 1, 
+                        word: [
+                            {
+                                content: "145+36=2141+39-9/48+32-80147+33-80145+35-801"
+                            }
+                        ]
+                    }, 
+                    {
+                        confidence: 1, 
+                        word: [
+                            {
+                                content: ""
+                            }
+                        ]
+                    }, 
+                    {
+                        confidence: 1, 
+                        word: [
+                            {
+                                content: "57+33=0056+34=9(4)24+56=￡C16+65=8】28+63=91"
+                            }
+                        ]
+                    }, 
+                    {
+                        confidence: 1, 
+                        word: [
+                            {
+                                content: "第12而壮81页"
+                            }
+                        ]
+                    }, 
+                    {
+                        confidence: 1, 
+                        word: [
+                            {
+                                content: "SHOT"
+                            }, 
+                            {
+                                content: "ON"
+                            }, 
+                            {
+                                content: "MI"
+                            }, 
+                            {
+                                content: "NOTE"
+                            }, 
+                            {
+                                content: "3"
+                            }
+                        ]
+                    }, 
+                    {
+                        confidence: 1, 
+                        word: [
+                            {
+                                content: "OMDUAL"
+                            }, 
+                            {
+                                content: "CAMERA"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }, 
+    desc: "success", 
+    sid: "wcr00023666@dx17fb0f04ec656f1a00"
+}
